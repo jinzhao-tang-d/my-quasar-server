@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4556c0d-502c-4b36-af44-0bafeb335e85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hiHytEVmICo1HWZatYSokNtBZf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.10.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/servery_try" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/node_modules" />
+      <recent name="$PROJECT_DIR$/http_server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.quasar_server.js">
+    <configuration name="quasar_8882.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/http_server/quasar_8882.js" working-dir="$PROJECT_DIR$/http_server">
+      <method v="2" />
+    </configuration>
+    <configuration name="quasar_server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/http_server/quasar_server.js" working-dir="$PROJECT_DIR$/http_server">
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_client.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/socket_udp/socket_client.js" working-dir="$PROJECT_DIR$/socket_udp">
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_client.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/socket_try/socket_client.js" working-dir="$PROJECT_DIR$/socket_try">
+      <method v="2" />
+    </configuration>
+    <configuration name="socket_server.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/socket_udp/socket_server.js" working-dir="$PROJECT_DIR$/socket_udp">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.quasar_server.js" />
+        <item itemvalue="Node.js.quasar_8882.js" />
+        <item itemvalue="Node.js.socket_client.js (1)" />
+        <item itemvalue="Node.js.socket_server.js (1)" />
+        <item itemvalue="Node.js.socket_client.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4556c0d-502c-4b36-af44-0bafeb335e85" name="Default Changelist" comment="" />
+      <created>1600487251448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600487251448</updated>
+      <workItem from="1600487253513" duration="50945000" />
+      <workItem from="1601224641150" duration="581000" />
+      <workItem from="1601274309263" duration="1378000" />
+      <workItem from="1601276700181" duration="1963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600495259105">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.803@0.23.1440.803" timestamp="1600495259105" />
+    <state width="1379" height="118" key="GridCell.Tab.0.bottom" timestamp="1601276680431">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="356" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1600615658869" />
+    <state width="1379" height="138" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1600620101075" />
+    <state width="1379" height="270" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1600753761963" />
+    <state width="1379" height="245" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1600699521648" />
+    <state width="1379" height="118" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1601276680431" />
+    <state width="1379" height="118" key="GridCell.Tab.0.center" timestamp="1601276680430">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="356" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1600615658867" />
+    <state width="1379" height="138" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1600620101074" />
+    <state width="1379" height="270" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1600753761962" />
+    <state width="1379" height="245" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1600699521647" />
+    <state width="1379" height="118" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1601276680430" />
+    <state width="1379" height="118" key="GridCell.Tab.0.left" timestamp="1601276680429">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="356" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1600615658866" />
+    <state width="1379" height="138" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1600620101073" />
+    <state width="1379" height="270" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1600753761961" />
+    <state width="1379" height="245" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1600699521647" />
+    <state width="1379" height="118" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1601276680429" />
+    <state width="1379" height="118" key="GridCell.Tab.0.right" timestamp="1601276680430">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1379" height="356" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1600615658868" />
+    <state width="1379" height="138" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1600620101074" />
+    <state width="1379" height="270" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1600753761962" />
+    <state width="1379" height="245" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1600699521648" />
+    <state width="1379" height="118" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1601276680430" />
+    <state x="385" y="147" width="670" height="681" key="search.everywhere.popup" timestamp="1600749122943">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1600489909793" />
+    <state x="385" y="147" width="670" height="679" key="search.everywhere.popup/0.23.1440.803@0.23.1440.803" timestamp="1600498150189" />
+    <state x="385" y="147" width="670" height="681" key="search.everywhere.popup/0.23.1440.805@0.23.1440.805" timestamp="1600749122943" />
+  </component>
+</project>
